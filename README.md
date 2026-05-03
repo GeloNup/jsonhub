@@ -32,7 +32,7 @@ Para ejecutar este proyecto de forma local, sigue estos pasos:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/GeloNup/jsonhub.git](https://github.com/tu-usuario/jsonhub.git)
+    git clone [https://github.com/GeloNup/jsonhub.git](https://github.com/GeloNup/jsonhub.git)
     ```
 2.  **Entrar a la carpeta:**
     ```bash
